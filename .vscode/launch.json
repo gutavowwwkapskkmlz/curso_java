@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Listas",
+      "request": "launch",
+      "mainClass": "secao14.Listas",
+      "projectName": "curso_java_11ca25fa"
+    },
+    {
+      "type": "java",
+      "name": "ContadorDePalavras",
+      "request": "launch",
+      "mainClass": "secao10_contadorPalavrasP.ContadorDePalavras",
+      "projectName": "curso_java_11ca25fa"
+    },
+    {
+      "type": "java",
       "name": "Quiz",
       "request": "launch",
       "mainClass": "Quiz",
